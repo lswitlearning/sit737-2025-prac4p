@@ -29,7 +29,7 @@ npm install
 ### Usage
 1. Start the server:
 ```
-node server.js
+node app.js
 ```
 2. The service will run at http://localhost:3000.
 
