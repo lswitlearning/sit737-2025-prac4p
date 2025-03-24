@@ -1,0 +1,197 @@
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=2&num2=2","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 2 + 2 = 4","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=2&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=2, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=2&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=2, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=10&num2=2","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction operation: 10 - 2 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=10&num2=n","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=10, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=10&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=10, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /multiply?num1=10&num2=2","service":"calculator-microservice"}
+{"level":"info","message":"Multiply operation: 10 * 2 = 20","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /multiply?num1=a&num2=2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=2","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /multiply?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=3&num2=4","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 3 + 4 = 7","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=a&num2=4","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=4","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=4","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=4","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=undefined","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=a&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=a&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=a&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=undefined","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=undefined","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Internal server error: Cannot access 'n1' before initialization","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=a&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Internal server error: Cannot access 'n1' before initialization","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=b","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=a&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=a&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=b","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=&num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=2&num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation: 2 + 1 = 3","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /add?num1=a&num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=a&num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=&num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=&num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=a&num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=1","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /subtract?num1=a&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /multiply?num1=a&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /multiply?num1=a&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /multiply?num1=3&num2=3","service":"calculator-microservice"}
+{"level":"info","message":"Multiply operation: 3 * 3 = 9","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=3&num2=3","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation: num1=3 / num2=3","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=&num2=3","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=3","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Server started on port 3000","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=&num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=b","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=a&num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=10&num2=0","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero: num1=10, num2=0","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 400","service":"calculator-microservice"}
+{"level":"info","message":"Incoming request: GET /divide?num1=0&num2=10","service":"calculator-microservice"}
+{"level":"info","message":"Divide operation: num1=0 / num2=10","service":"calculator-microservice"}
+{"level":"info","message":"Request completed with statusCode: 200","service":"calculator-microservice"}

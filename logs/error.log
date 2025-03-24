@@ -1,0 +1,55 @@
+{"level":"error","message":"Invalid number input: num1=2, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=2, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=10, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=10, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=4","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=4","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Internal server error: Cannot access 'n1' before initialization","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Internal server error: Cannot access 'n1' before initialization","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=1","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=a, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=3","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=","service":"calculator-microservice"}
+{"level":"error","message":"Missing parameters: num1=, num2=b","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input: num1=NaN, num2=NaN","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero: num1=10, num2=0","service":"calculator-microservice"}
